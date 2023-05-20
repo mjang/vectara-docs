@@ -9,7 +9,7 @@ import {Config} from './definitions.md';
 
 You've reached <Config v="names.product"/>'s documentation homepage.  Choose a topic on the left to learn more.
 
-With a little preparation, Vectra can help you create a search interfaces that
+With a little preparation, Vectara can help you create a search interfaces that
 provides more help for your users. Follow along, as we show you how you can:
 
 - Upload your documentation through our API

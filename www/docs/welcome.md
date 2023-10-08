@@ -9,6 +9,15 @@ import {Config} from './definitions.md';
 
 You've reached <Config v="names.product"/>'s documentation homepage.  Choose a topic on the left to learn more.
 
+With a little preparation, Vectara can help you create a search interfaces that
+provides more help for your users. Follow along, as we show you how you can:
+
+- Upload your documentation through our API
+- Set up an index, as a foundation for search
+- Configure search through our API
+- Limit access as needed
+- Study analytics of how your users search
+
 Not sure where to start?  Here are some ideas:
 - If you don't have a <Config v="names.product"/> account yet, register for one [here](https://console.vectara.com/signup)
 - Have a look at examples of how to [index](/docs/getting-started-samples/rest_index_document.py) and
